@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Decide with Friends</string>
+    <string name="event_name">Why?</string>
+    <string name="event_name_hint">Reason to meet...</string>
+    <string name="event_time">What time?</string>
+    <string name="event_venue">Where?</string>
+    <string name="event_venue_hint">Place for the meetup...</string>
+    <string name="event_date">When?</string>
+    <string name="menu_send">Send to friends</string>
+</resources>

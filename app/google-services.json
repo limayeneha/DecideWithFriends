@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186127129175",
+    "firebase_url": "https://decidewithfriends.firebaseio.com",
+    "project_id": "decidewithfriends",
+    "storage_bucket": "decidewithfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186127129175:android:d432f3bdac0beb3c",
+        "android_client_info": {
+          "package_name": "com.limayeneha.decidewithfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186127129175-1phdm0m5hn4pd1krovuot0an9e58pid6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limayeneha.decidewithfriends",
+            "certificate_hash": "ce1e2f2fe9f9048d6841324fdefd35cac3d0dd33"
+          }
+        },
+        {
+          "client_id": "186127129175-echptl7539cun364ermte2thit0p5vhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMnh0KoIoPyQaPkAKEAKmtO77L1fdZuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186127129175-echptl7539cun364ermte2thit0p5vhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
